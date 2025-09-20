@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "esp_netif_ip_addr.h": "c",
+        "esp_system.h": "c"
+    }
+}
